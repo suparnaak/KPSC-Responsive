@@ -1,0 +1,45 @@
+body{
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    background-color: #f2f2f2;
+    color: #cc0000;
+}
+.main-container{
+    margin: 0;
+    padding: 0;
+}
+
+.topbar{
+    color: #cc0000;
+    background-color: #f2f2f2;
+    font-size: 12px;
+}
+.topbar li{
+    color: #cc0000;
+    border: none;
+    background-color: transparent;
+    
+    padding-left: 2px;
+}
+.topbar li a{
+    color: #cc0000;
+    border: none;
+    background-color: transparent;
+    padding: 0;
+
+}
+.topnav{
+    background-color: #C03B29;;
+}
+.topnav ul li a{
+ font-size: 13px;
+ font-weight: bold;
+}
+.slider-main-div{
+    background-image: url(https://www.keralapsc.gov.in/sites/default/files/gbb-uploads/mhtopbg-a1tgnz.jpg);
+    
+}
+.car-item img{
+    width: 100px;
+}
+
